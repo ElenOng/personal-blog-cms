@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("personal-blog-cms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60dab97392adbcc3999b79875ec91ca778f16013")]
 [assembly: System.Reflection.AssemblyProductAttribute("personal-blog-cms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("personal-blog-cms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
